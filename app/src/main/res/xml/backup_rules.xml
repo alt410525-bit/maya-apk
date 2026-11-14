@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <include domain="database" path="maya_clone.db"/>
+    <include domain="sharedpref" path="."/>
+    <include domain="file" path="."/>
+</resources>
